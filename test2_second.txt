@@ -1,0 +1,2 @@
+echo "this is first line of test 2"
+
